@@ -1,0 +1,2 @@
+<?php
+	ptb_about();
